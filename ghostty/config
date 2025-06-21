@@ -1,0 +1,23 @@
+#!/bin/bash
+
+theme = catppuccin-mocha
+
+
+font-family = "JetBrains Mono Regular Medium"
+font-size = 14
+
+cursor-invert-fg-bg = true
+cursor-style = block
+cursor-style-blink = false
+mouse-hide-while-typing = true
+shell-integration-features = no-cursor
+macos-window-shadow = false
+#macos-icon = custom-style
+#macos-icon-frame = chrome
+
+
+window-padding-y = 0
+background-blur = true
+background-opacity = 0.90
+confirm-close-surface = false
+macos-titlebar-style = hidden
